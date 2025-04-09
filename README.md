@@ -88,4 +88,4 @@ Game dev experiment with ship physics on Roblox terrain water.
 
 ## 📫 Get in Touch
 
-Feel free to reach out through [email@example.com] or check out some of the repos below. Let’s build something great.
+Feel free to reach out through [yme7ir@gmail.com] or check out some of the repos below. Let’s build something great.
