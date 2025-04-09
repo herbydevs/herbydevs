@@ -34,14 +34,28 @@ Welcome to my GitHub — a collection of tools, systems, experiments, and ideas 
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Java` `Python` `HTML` `CSS` `JavaScript` `C` `Lua` `Bash`  
+### 🧑‍💻 Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  
+![Lua](https://img.shields.io/badge/Lua-%23000080.svg?style=flat&logo=lua&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
 
-**Tools & Frameworks:**  
-`Quarkus` `Flask` `Gradle` `Git` `Node.js`  
+### ⚙️ Tools & Frameworks  
+![Quarkus](https://img.shields.io/badge/Quarkus-%23000000.svg?style=flat&logo=quarkus&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white)  
+![Gradle](https://img.shields.io/badge/Gradle-%23023060.svg?style=flat&logo=gradle&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)  
+![Roblox](https://img.shields.io/badge/Roblox-%23000000.svg?style=flat&logo=roblox&logoColor=white)
 
-**Other:**  
-PDF generation, CSV parsing, REST APIs, Roblox terrain scripting
+### 📦 Other  
+![CSV](https://img.shields.io/badge/CSV-Data-%23E5E5E5.svg?style=flat&logo=read-the-docs&logoColor=black)  
+![PDF](https://img.shields.io/badge/PDF-Generation-%23FF0000.svg?style=flat&logo=adobeacrobatreader&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=flat&logo=web&logoColor=white)
 
 ---
 
